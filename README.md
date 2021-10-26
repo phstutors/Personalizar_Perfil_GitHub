@@ -3,7 +3,7 @@ alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do githu
 
 ## Como usar?
 1.  escolh uma URL
-2. crie a tag imagem ``` <img src="url" /> ``` or ``` ![image](url) ```
+2. crie a tag imagem ``` <img src="url" /> ``` ou ``` ![image](url) ```
 3. copie e cole no seu perfil
 
 ## Menu
