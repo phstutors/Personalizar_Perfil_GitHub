@@ -15,7 +15,7 @@ alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do githu
   - [👩‍💻 Software Metrics and Analytics](#-software-metrics-and-analytics-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
-  - [⏱️ Gifs](#%EF%B8%8F-workflow-platforms-)
+  - [⏱️ Gifs](#%EF%B8%8F-gifs-)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -308,22 +308,22 @@ Badge | URL
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> | `https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white`
 <img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff" /> | `https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff`
 
-## 📱 Gifs [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Gifs [🔝](#welcome-badges-4-readmemd-gifs)
 
 Badge | URL
 ------------ | -------------
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" /> | `https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif`
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
-<img src ="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /> | `https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white`
-<img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" /> | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`
-<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" /> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000` 
-<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /> | `https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white` 
-<img src="https://img.shields.io/badge/Viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" /> | `https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white`
-<img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" /> | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`
-<img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /> | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`
-<img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white`
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`
+<img src="https://c.tenor.com/5hoZAVwWEwsAAAAj/milk-and-mocha-cute.gif" /> | `https://c.tenor.com/5hoZAVwWEwsAAAAj/milk-and-mocha-cute.gif`
+<img src="https://c.tenor.com/9uprlTXW3kUAAAAj/cute-love.gif" /> | `https://c.tenor.com/9uprlTXW3kUAAAAj/cute-love.gif`
+<img src="https://c.tenor.com/sAvoFCX3GucAAAAj/kawaii-dancing.gif" /> | `https://c.tenor.com/sAvoFCX3GucAAAAj/kawaii-dancing.gif`
+<img src="https://c.tenor.com/Am61DGzxpGoAAAAM/anime-laughing.gif" /> | `https://c.tenor.com/Am61DGzxpGoAAAAM/anime-laughing.gif`
+<img src="https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif" /> | `https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif`
+<img src ="https://c.tenor.com/6MsukwHKJ58AAAAM/ara-anime.gif" /> | `**https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white**https://c.tenor.com/6MsukwHKJ58AAAAM/ara-anime.gif`
+<img src="https://c.tenor.com/U4FpW9fqvd8AAAAM/vegeta-cartoon.gif" /> | `https://c.tenor.com/U4FpW9fqvd8AAAAM/vegeta-cartoon.gif`
+<img src="https://c.tenor.com/9qKP_D0i0LsAAAAj/drawing-rabbit.gif" /> | `****https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000******` 
+<img src="https://c.tenor.com/eQY1tEfaNPwAAAAM/moana-desenho.gif" /> | `https://c.tenor.com/eQY1tEfaNPwAAAAM/moana-desenho.gif` 
+<img src="https://c.tenor.com/Bs-yaV9upBQAAAAM/love-drawing.gif" /> | `https://c.tenor.com/Bs-yaV9upBQAAAAM/love-drawing.gif`
+<img src="https://c.tenor.com/8UABuGqbTwYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/8UABuGqbTwYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
+<img src="https://c.tenor.com/zmw3jC2KnaYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/zmw3jC2KnaYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
+<img src="https://c.tenor.com/0BAdLK0-I_UAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/0BAdLK0-I_UAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
+<img src="https://c.tenor.com/vubbCXkQgMoAAAAM/versao-anime-any-malu-anime.gif" /> | `https://c.tenor.com/vubbCXkQgMoAAAAM/versao-anime-any-malu-anime.gif`
