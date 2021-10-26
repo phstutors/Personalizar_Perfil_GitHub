@@ -320,7 +320,7 @@ Badge | URL
 <img src="https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif" /> | `https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif`
 <img src ="https://c.tenor.com/6MsukwHKJ58AAAAM/ara-anime.gif" /> | `**https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white**https://c.tenor.com/6MsukwHKJ58AAAAM/ara-anime.gif`
 <img src="https://c.tenor.com/U4FpW9fqvd8AAAAM/vegeta-cartoon.gif" /> | `https://c.tenor.com/U4FpW9fqvd8AAAAM/vegeta-cartoon.gif`
-<img src="https://c.tenor.com/9qKP_D0i0LsAAAAj/drawing-rabbit.gif" /> | `****https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000******` 
+<img src="https://c.tenor.com/9qKP_D0i0LsAAAAj/drawing-rabbit.gif" /> | `https://c.tenor.com/9qKP_D0i0LsAAAAj/drawing-rabbit.gif` 
 <img src="https://c.tenor.com/eQY1tEfaNPwAAAAM/moana-desenho.gif" /> | `https://c.tenor.com/eQY1tEfaNPwAAAAM/moana-desenho.gif` 
 <img src="https://c.tenor.com/Bs-yaV9upBQAAAAM/love-drawing.gif" /> | `https://c.tenor.com/Bs-yaV9upBQAAAAM/love-drawing.gif`
 <img src="https://c.tenor.com/8UABuGqbTwYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/8UABuGqbTwYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
