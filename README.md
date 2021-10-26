@@ -312,7 +312,10 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phstutors&layout=compact&langs_count=7&theme=dark"/> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
+ <div>
+  <a href="https://github.com/phstutors">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phstutors&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
