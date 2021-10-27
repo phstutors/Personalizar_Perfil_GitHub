@@ -7,12 +7,12 @@ alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do githu
 3. copie e cole no seu perfil
 
 ## Menu
-  - [📱 Contact](#-contato-)
-  - [🤜🤛 Group](#-grupo-)
+  - [📱 Contato](#-contato-)
+  - [🤜🤛 Grupo](#-grupo-)
   - [👨👩 Social](#-social-)
-  - [👩‍💻 Languages](#-languages-)
+  - [👩‍💻 Linguagens](#-Linguagens-)
   - [⚡ Database](#-database-)
-  - [👩‍💻 Software Metrics and Analytics](#-software-metrics-and-analytics-)
+  - [👩‍💻 Métricas e análises de software](#-Métricas-e-análises-de-software-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
   - [⏱️ Gifs](#-gifs-)
@@ -92,7 +92,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> | `https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white`
 <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"/> | `https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black`
 
-## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Linguagens [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
