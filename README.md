@@ -327,4 +327,4 @@ Badge | URL
 <img src="https://c.tenor.com/zmw3jC2KnaYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/zmw3jC2KnaYAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
 <img src="https://c.tenor.com/0BAdLK0-I_UAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif" /> | `https://c.tenor.com/0BAdLK0-I_UAAAAM/o-surreal-mundo-de-any-malu-any-malu.gif`
 <img src="https://c.tenor.com/vubbCXkQgMoAAAAM/versao-anime-any-malu-anime.gif" /> | `https://c.tenor.com/vubbCXkQgMoAAAAM/versao-anime-any-malu-anime.gif`
-  ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg) | '![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)'
