@@ -2,7 +2,7 @@
 alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do github.
 
 ## Como usar?
-1.  escolh uma URL
+1.  escolha uma URL
 2. crie a tag imagem ``` <img src="url" /> ``` ou ``` ![image](url) ```
 3. copie e cole no seu perfil
 
@@ -15,9 +15,9 @@ alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do githu
   - [👩‍💻 Software Metrics and Analytics](#-software-metrics-and-analytics-)
   - [📱 Mobile Frameworks](#-mobile-frameworks-)
   - [🚀 Frameworks](#-frameworks-)
-  - [⏱️ Gifs](#%EF%B8%8F-gifs-)
+  - [⏱️ Gifs](#-gifs-)
 
-## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Contato [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -168,7 +168,7 @@ Badge | URL
 
 
 
-## 👩‍💻 Software Metrics and Analytics [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Métricas e análises de software [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -308,7 +308,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> | `https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white`
 <img src="https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff" /> | `https://img.shields.io/badge/Hasura-000000?style=for-the-badge&logo=hasura&logoColor=ffffff`
 
-## 📱 Gifs [🔝](#welcome-badges-4-readmemd-gifs)
+## 📱 Gifs [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
