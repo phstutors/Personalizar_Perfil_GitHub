@@ -7,8 +7,8 @@ alguns Badges, gifs e muito mais para voce personalizar seu perfil aqui do githu
 3. copie e cole no seu perfil
 
 ## Menu
-  - [📱 Contact](#-contact-)
-  - [🤜🤛 Group](#-group-)
+  - [📱 Contact](#-contato-)
+  - [🤜🤛 Group](#-grupo-)
   - [👨👩 Social](#-social-)
   - [👩‍💻 Languages](#-languages-)
   - [⚡ Database](#-database-)
@@ -38,7 +38,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white`
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> | `https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white`
 
-## 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
+## 🤜🤛 Grupo [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
