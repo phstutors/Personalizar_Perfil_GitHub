@@ -46,7 +46,7 @@
 [comment]: <> (Here i use the vercel api, change the references in the url bellow)
 
 <a href="https://github.com/phstutors/CIPA---CONCURSO-DE-IDEIAS-PROFESSOR-ANJO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phstutors&repo=CIPA---WEB-CONCURSO-DE-IDEIAS-PROFESSOR-ANJO&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phstutors&repo=CIPA---CONCURSO-DE-IDEIAS-PROFESSOR-ANJO&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
 <a href="https://github.com/phstutors/MatracaWeb-FinalFeature">
